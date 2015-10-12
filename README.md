@@ -70,7 +70,7 @@ Since you're not the maintainer of this repository, you won't be able to merge t
 * In your comment, start writing "@e"—the team "TheCodePub/Editors" should appear in the autocomplete dropdown. Press enter, and save your comment. Maybe add a few emojis :boom:
 * And the waiting game begins. A member of the Editor team will merge your pull request, or potentially request that you make additional changes before they merge. Look out for new notifications in the very top right of GitHub.com.
 
-When your PR gets merged, your change will be published to http://thecodepub.github.io/lab.
+When your PR gets merged, your change will be published to http://dds16sto.github.io.
 
 ### Summary
 
