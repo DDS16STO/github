@@ -30,11 +30,11 @@ You notice a mistake in the last book title: it's actually "Don't Make Me **Thin
 
 You then create a pull request—a request to the owner of the list to "pull in" your changes. They can accept your change, whereupon it's saved into their version, or they can reject your suggestion. Every Pull Request also comes with a discussion thread where you can talk about why the change is a good (or bad) idea, and if there are any additional changes you need to make for the owner to accept it. 
 
-[Here's how a pull request created to fix the spelling mistake in the example above would look like](https://github.com/TheCodePub/github/pull/4). Click around to see what's going on: in addition to the discussion, there's a tab for commits, and a tab for files. Don't worry if you don't understand what all of this means yet: we'll get back to it soon.
+[Here's how a pull request created to fix the spelling mistake in the example above would look like](https://github.com/DDS16STO/github/pull/1). Click around to see what's going on: in addition to the discussion, there's a tab for commits, and a tab for files. Don't worry if you don't understand what all of this means yet: we'll get back to it soon.
 
 ## Your challenge
 
-We have a list for Code Pub Hackers who've created a Pull Request with the help of this guide: http://thecodepub.github.io/lab. Your challenge is to add yourself to that list. Ready? Great! Here's how to do it:
+There's a a list of everyone who've created a Pull Request with the help of this guide: http://dds16sto.github.io. Your challenge is to add yourself to that list. Ready? Great! Here's how to do it:
 
 ### Step 1: Clone the repository
 
