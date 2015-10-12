@@ -84,6 +84,6 @@ When working with Git and GitHub there's a lot of complicated words used to desc
 ## Next steps
 
 - Read about how GitHub recommends that you work with GitHub in [GitHub Flow](https://guides.github.com/introduction/flow/).
-- We've used [GitHub Pages](https://pages.github.com) to publish the site in this tutorial. [Read more about creating your own GitHub Page](https://pages.github.com).
+- We've used [Jekyll](http://jekyllrb.com) to publish the site in this tutorial. [Read more about creating your own Jekyll page](http://jekyllrb.com).
 - GitHub Desktop is a great way of working with git and GitHub, but many choose to work with the terminal instead. To learn about how to use GitHub with a terminal, check out [git-it](http://jlord.us/git-it/) by @jlord.
 - Read more about [Git](https://git-scm.com).
