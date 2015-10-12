@@ -39,17 +39,15 @@ We have a list for Code Pub Hackers who've created a Pull Request with the help 
 ### Step 1: Clone the repository
 
 1. Create a GitHub account
-* There are several ways to a clone the repository (or project). One way is to use GitHub's official client for Mac and Windows. Head over to https://desktop.github.com and download the app.
-* Install the app, and log in with your GitHub account.
-* Go back to your browser and head over to https://github.com/TheCodePub/thecodepub.github.io
+* There are several ways to a clone the repository (or project). One way is to use GitHub's official client for Mac and Windows. Opem GitHub Desktop if you already have it installed, or head over to https://desktop.github.com and download the app.
+* In your browser, head over to https://github.com/DDS16STO/DDS16STO.github.io
 * Look for a button on the far right labeled "Clone in Desktop". Click it to clone the repository. 
 
 ### Step 2: Add yourself to the list
 
-
 1. In GitHub for Desktop, open the folder of the newly cloned repository by clicking on `Repository -> Open in Finder` (or press CMD+Shift+F)
-* We need an image for the list, so let's start by adding it to the project. Find the folder `/images/hackers/`. Add an image to it (of yourself or something else), and make it 260 px wide and 260 px tall. Copy the filename of the image—we'll need it soon.
-* Locate and open the folder called `_hackers`
+* We need an image for the list, so let's start by adding it to the project. Find the folder `/images/people/`. Add an image to it (of yourself or something else), and make it 260 px wide and 260 px tall. Copy the filename of the image—we'll need it soon.
+* Locate and open the folder called `_people`
 * You'll see files ending in `.md`. Make a duplicate out of one of them (anyone), and rename the file to include your own name, like so: `[your-name].md`.
 * Open your newly duplicated file with a text editor. If you haven't installed a text editor, try [Sublime](http://sublimetext.com).
 * Change the file to include your name, and your twitter username if you have any. On the row that says `image:`, paste in the filename of your newly added image.
@@ -59,9 +57,8 @@ We have a list for Code Pub Hackers who've created a Pull Request with the help 
 
 1. Go back to *GitHub for Desktop*
 * You should now see your uncommited changes listed in the app. If you can't see them, look for the button `1 uncommited change` in the top bar of the app.
-* Create a new branch. Branches are git lingo for `versions`. This is your version of this website where you've added yourself to the list. In the top left of the app, press the "Add a branch" button. Name the branch something descriptive of your change. If your name is "Unn", the branch name could be `add-unn-to-hackers`.
+* Create a new branch. Branches are git lingo for `versions`. This is your version of this website where you've added yourself to the list. In the top left of the app, press the "Add a branch" button. Name the branch something descriptive of your change. If your name is "Unn", the branch name could be `add-tobi-to-people`.
 * With the branch created, save your changes. When you're working with git, this is called "committing". To the left, find the field that says "Summary". Add a description of your change, and press "Commit to…" at the very bottom of the window.
-* Become a member of the org. To create a pull request, you need to become a member of the TheCodePub org. Come up to Unn or Tobias and ask to be added!
 * Hooray! You've made a change and saved it. In the top right corner, look for a button called "Pull Request". Press it, and a pane will fold out from the right. Press "Create Pull Request" to publish your changes to GitHub.
 
 ### Step 4: Merging
