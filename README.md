@@ -38,8 +38,7 @@ There's a a list of everyone who've created a Pull Request with the help of this
 
 ### Step 1: Clone the repository
 
-1. Create a GitHub account
-* There are several ways to a clone the repository (or project). One way is to use GitHub's official client for Mac and Windows. Opem GitHub Desktop if you already have it installed, or head over to https://desktop.github.com and download the app.
+1. There are several ways to a clone the repository (or project). One way is to use GitHub's official client for Mac and Windows. Open GitHub Desktop if you already have it installed, or head over to https://desktop.github.com and download the app.
 * In your browser, head over to https://github.com/DDS16STO/DDS16STO.github.io
 * Look for a button on the far right labeled "Clone in Desktop". Click it to clone the repository. 
 
