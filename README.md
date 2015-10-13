@@ -1,4 +1,4 @@
-# Introduction to GitHub
+# Introduction to Pull Requests
 
 What's GitHub? If you've googled "GitHub", you might have seen this summary on Wikipedia:
 
